@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Crud" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" width="20%">
+  <img alt="React Native" src="[https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)" width="20%">
 </p>
 
 ## 🚀 Tecnologias
