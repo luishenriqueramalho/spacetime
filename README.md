@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="React Native" src="(https://www.datocms-assets.com/45470/1631026680-logo-react-native.png)" width="20%">
+  <img alt="React Native" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="20%">
 </p>
 
 ## 🚀 Tecnologias
